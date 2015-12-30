@@ -3,7 +3,7 @@ MAINTAINER michael@faille.io <michael@faille.io>
 
 
 # Options as variables
-ENV GO_VERSION 1.5.1
+ENV GO_VERSION 1.5.2
 ENV ARCH amd64
 ENV HBASE_VERSION 1.1.2
 ENV HBASE_HOME /hbase/hbase-$HBASE_VERSION
